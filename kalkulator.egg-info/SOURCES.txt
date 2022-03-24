@@ -1,0 +1,8 @@
+setup.py
+kalkulator.egg-info/PKG-INFO
+kalkulator.egg-info/SOURCES.txt
+kalkulator.egg-info/dependency_links.txt
+kalkulator.egg-info/not-zip-safe
+kalkulator.egg-info/top_level.txt
+library/__init__.py
+library/pack1.py
